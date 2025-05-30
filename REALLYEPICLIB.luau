@@ -1,10 +1,9 @@
--- Updated: Lag Fixed & Theme --
--- This is not hyprland --
+
 
 local Library = {
-	Version = 'Acrylic.0.6',
+	Version = '1.0',
 	Loaded = true,
-	Discord = 'discord.gg/wPaQZwhMHy',
+	Discord = 'https://discord.gg/mCYX3TsWaK',
 	env = getgenv or getfenv,
 	Executor = {"s","w","z","t","a","c"},
 	Skid = true,
